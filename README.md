@@ -1,1 +1,1 @@
-# Cygwin-setup
+# Cygwin setup
